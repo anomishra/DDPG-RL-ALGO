@@ -1,10 +1,10 @@
 This implementation is inspired from tflearn example of titanic dataset. I modified the implementation into simple pandas dataframe of manipulating the dataset required to feed into neural network.
 
-tflearn link: http://tflearn.org/tutorials/quickstart.html
+tflearn link, reference: http://tflearn.org/tutorials/quickstart.html
 
 Dependency and platforms:
 
-1. Implemented in Google Colab
+1. Implemented in Google Colab with TPU runtime
 2. Python 3.6
 3. tflearn
 4. tensorflow
