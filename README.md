@@ -4,7 +4,7 @@ tflearn link, reference: http://tflearn.org/tutorials/quickstart.html
 
 Dependency and platforms:
 
-1. Implemented in Google Colab with TPU runtime
+1. Implemented in Google Colab with GPU runtime
 2. Python 3.6
 3. tflearn
 4. tensorflow
